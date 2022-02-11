@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zxrfire/DataScienceLearningAssistant/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zxrfire/DataScienceLearningAssistantTask/HEAD)
 
 # Description
 
