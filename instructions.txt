@@ -1,0 +1,6 @@
+1. We are looking to see if you can solve a data science problem, in particular if you can successfully downsample a time series problem by providing aggregates using pandas and numpy.  
+2. The data is inside the binder folder, under the name “run.csv”.
+3. We would like you to resample the data with 15 second bins, with the y axis being heart rate and x axis being the time (not the timestamp, but human readable time).
+4. For null/missing values in the data, please fill by forwarding the last valid datapoint to the next valid datapoint
+5. Perform a rolling window calculation on the data by finding the mean heart rate in bins of 5 minutes with a minimum period of 1 and plot the resulting datapoints
+
