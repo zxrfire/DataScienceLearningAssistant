@@ -1,36 +1,11 @@
-# Python environment with a requirements.txt
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zxrfire/DataScienceLearningAssistant/HEAD)
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/master)
+# Description
 
-A Binder-compatible repo with a `requirements.txt` file.
+A binder instance for the Data Science Learning assistant project. 
 
-Access this Binder at the following URL
+Your data collected will be anonymized, transcribed, and analyzed. There won’t be a way for us to associate your names with the data. And if you feel uncomfortable, you can choose to opt out at any time.
 
-http://mybinder.org/v2/gh/binder-examples/requirements/master
+# Getting Started
 
-## Notes
-The `requirements.txt` file should list all Python libraries that your notebooks
-depend on, and they will be installed using:
-
-```
-pip install -r requirements.txt
-```
-
-The base Binder image contains no extra dependencies, so be as
-explicit as possible in defining the packages that you need. This includes
-specifying explicit versions wherever possible.
-
-If you do specify strict versions, it is important to do so for *all*
-your dependencies, not just direct dependencies.
-Strictly specifying only some dependencies is a recipe for environments
-breaking over time.
-
-[pip-compile](https://github.com/jazzband/pip-tools/) is a handy
-tool for combining loosely specified dependencies with a fully frozen environment.
-You write a requirements.in with just the dependencies you need
-and pip-compile will generate a requirements.txt with all the strict packages and versions that would come from installing that package right now.
-That way, you only need to specify what you actually know you need,
-but you also get a snapshot of your environment.
-
-In this example we include the library `seaborn` which will be installed in
-the environment, and our notebook uses it to plot a figure.
+To get started, please click on the "launch binder" button and an instance of jupyter notebook with the corrosponding data will open in your browser.
