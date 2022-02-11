@@ -14,4 +14,6 @@ pandas version 1.0.4
 
 # Getting Started
 
-To get started, please click on the "launch binder" button and an instance of jupyter notebook with the corrosponding data will open in your browser.
+To get started, please click on the "launch binder" button
+
+Once binder loads, please click on "Python3" under "notebook" and an instance of jupyter notebook with the corrosponding data will open in your browser.
