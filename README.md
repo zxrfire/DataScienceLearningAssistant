@@ -7,11 +7,10 @@ A binder instance for the Data Science Learning assistant project.
 Your data collected will be anonymized, transcribed, and analyzed. There won’t be a way for us to associate your names with the data. And if you feel uncomfortable, you can choose to opt out at any time.
 
 # Pre-installed packages
-The binder instance contains the pre installed packages below:
+The binder instance contains the pre installed packages below (in addition to some other packages that are not required):
 
-numpy==1.18.5
+pandas version 1.0.4
 
-pandas==1.0.4
 
 # Getting Started
 
