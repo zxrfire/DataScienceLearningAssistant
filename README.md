@@ -8,7 +8,9 @@ Your data collected will be anonymized, transcribed, and analyzed. There won’t
 
 # Pre-installed packages
 The binder instance contains the pre installed packages below:
+
 numpy==1.18.5
+
 pandas==1.0.4
 
 # Getting Started
